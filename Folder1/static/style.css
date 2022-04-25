@@ -1,0 +1,15 @@
+.body{
+    font-size: large;
+    background: linear-gradient(to right, cyan, darkblue);
+}
+
+.Main-heading{
+    text-align: center;
+    color:hotpink;
+    text-decoration: underline overline black;
+}
+
+.Paragraph{
+    font-family: sans-serif;
+    color:rgb(0, 0, 0);
+}
